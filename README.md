@@ -5,5 +5,5 @@ A website that allows people to book different kinds of outdoor tours in nature 
 HTML
 SASS
 
-# Files I worked on:
-starter
+# Folder I worked on: starter
+The folder I worked on is the ## starter folder
